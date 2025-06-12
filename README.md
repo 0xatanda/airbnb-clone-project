@@ -14,12 +14,12 @@
  
  ## ⚙️ Tech Stack
  
- | Layer         | Technology Used        |
- |--------------|------------------------|
- | Frontend     | HTML, CSS, JavaScript, React (optional) |
- | UI Library   | Tailwind CSS / Bootstrap (optional) |
- | Design Tool  | Figma                  |
- | Version Control | GitHub              |
+ | Layer                         | Technology Used                         |
+ |-------------------------------|-----------------------------------------|
+ | Frontend                      | HTML, CSS, JavaScript, React (optional) |
+ | UI Library                    | Tailwind CSS / Bootstrap (optional)     |
+ | Design Tool                   | Figma                                   |
+ | Version Control               | GitHub                                  |
  
  ---
  
@@ -36,10 +36,10 @@
  
  ### 🧭 Key Features to Implement
  
- | Feature                    | Description |
- |---------------------------|-------------|
- | Property Listing View     | Display multiple properties in a grid/list format |
- | Listing Detailed View     | Show more information about a selected property |
+ | Feature                   | Description                                          |
+ |---------------------------|------------------------------------------------------|
+ | Property Listing View     | Display multiple properties in a grid/list format    |
+ | Listing Detailed View     | Show more information about a selected property      |
  | Simple Checkout View      | Allow the user to confirm booking details and submit |
  
  ### 🎨 Figma Design Exploration
@@ -54,12 +54,12 @@
  - Disabled Button: `#E6E6E6`
  
  #### Typography
- | Element           | Font Family     | Font Weight | Font Size |
- |--------------------|------------------|--------------|------------|
- | Headings           | Inter            | 700 (Bold)   | 24px       |
- | Subheadings        | Inter            | 600 (Semi-bold) | 18px    |
- | Body Text          | Inter            | 400 (Normal) | 16px       |
- | Buttons / Links    | Inter            | 500 (Medium) | 16px       |
+ | Element            | Font Family      | Font Weight     | Font Size  |
+ |--------------------|------------------|-----------------|------------|
+ | Headings           | Inter            | 700 (Bold)      | 24px       |
+ | Subheadings        | Inter            | 600 (Semi-bold) | 18px       |
+ | Body Text          | Inter            | 400 (Normal)    | 16px       |
+ | Buttons / Links    | Inter            | 500 (Medium)    | 16px       |
  
  > 💡 **Why Identifying Design Properties Matters:**  
  Defining color styles, typography, spacing, and layout early helps maintain consistency across the app and streamlines the development process. It also makes it easier for multiple developers or designers to work together efficiently.
@@ -70,16 +70,16 @@
  
  This project simulates a collaborative software development environment. Each role plays a vital part in ensuring the success of the project.
  
- | Role                 | Responsibilities |
- |----------------------|------------------|
- | **Project Manager**  | Oversees timelines, assigns tasks, tracks progress |
- | **Frontend Developer(s)** | Implements UI components, ensures responsiveness and interactivity |
- | **Backend Developer(s)** | Handles server logic, API integration, database management |
- | **Designer(s)**       | Creates mockups, defines UI styles, ensures good UX |
- | **QA/Testers**        | Tests features, reports bugs, verifies fixes |
- | **DevOps Engineer(s)** | Manages deployment pipelines, CI/CD, infrastructure |
- | **Product Owner**     | Defines product vision, prioritizes features |
- | **Scrum Master**      | Facilitates Agile ceremonies, removes blockers |
+ | Role                       | Responsibilities                                                        |
+ |----------------------------|-------------------------------------------------------------------------|
+ | **Project Manager**        | Oversees timelines, assigns tasks, tracks progress                      |
+ | **Frontend Developer(s)**  | Implements UI components, ensures responsiveness and interactivity      |
+ | **Backend Developer(s)**   | Handles server logic, API integration, database management              |
+ | **Designer(s)**            | Creates mockups, defines UI styles, ensures good UX                     |
+ | **QA/Testers**             | Tests features, reports bugs, verifies fixes                            |
+ | **DevOps Engineer(s)**     | Manages deployment pipelines, CI/CD, infrastructure                     |
+ | **Product Owner**          | Defines product vision, prioritizes features                            |
+ | **Scrum Master**           | Facilitates Agile ceremonies, removes blockers                          |
  
  ---
  
@@ -89,11 +89,11 @@
  
  ### 🔧 Components We Plan to Implement
  
- | Component Name | Description |
- |----------------|-------------|
- | **Navbar**      | Navigation bar with logo, search bar, and user profile |
- | **Property Card** | Displays a thumbnail, title, price, and rating for each listing |
- | **Footer**      | Contains links to About, Privacy, Terms, and Contact pages |
+ | Component Name     | Description                                                     |
+ |--------------------|-----------------------------------------------------------------|
+ | **Navbar**         | Navigation bar with logo, search bar, and user profile          |
+ | **Property Card**  | Displays a thumbnail, title, price, and rating for each listing |
+ | **Footer**         | Contains links to About, Privacy, Terms, and Contact pages      |
  
  These components will be reused throughout the app and can be customized for different views.
  
